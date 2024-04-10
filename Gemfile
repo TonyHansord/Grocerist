@@ -48,6 +48,8 @@ gem "sassc-rails"
 # bulma-rails is a gem that makes it easy to use the Bulma CSS framework with Rails 6+ applications.
 gem 'bulma-rails', '~> 0.9.4'
 
+gem 'simple_form', '~> 5.3'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
